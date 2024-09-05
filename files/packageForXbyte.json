@@ -1,7 +1,7 @@
 {
   "name":"X-BYTE",
   "version":"1.0.2",
-  "description":"X-BYTE has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"X-BYTE has been designed to make things easier and fun while using WhatsApp..",
   "main":"talkdrove.js",
   "scripts":{
     "start":"pm2 start talkdrove.js --deep-monitoring --attach --name talkdrove",
