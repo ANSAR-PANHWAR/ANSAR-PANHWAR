@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=HyHamza%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/MPQh6Vw/temp-image.jpg?v=4&backgroundColor=%23e4f2f6&instagram=TalkDrove&github=HyHamza&)
+![My card name](https://cardivo.vercel.app/api?name=HyHamza%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/MPQh6Vw/temp-image.jpg?=4&backgroundColor=%23e4f2f6&instagram=TalkDrove&github=HyHamza&)
 <BR>
 ![github stats](https://github-readme-stats.vercel.app/api?username=HyHamza&show_icons=true&theme=radical)
 <BR>
